@@ -1,0 +1,43 @@
+#tag MultiImage
+Image cell
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAGgAAAAAAGgAAIAAAlLbmFyZjMgSEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQkQAAf////8IY2VsbC5wbmcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////wAAAAAAAAAAAAAAAP////8AAAogY3UAAAAAAAAAAAAAAAAAEkNsZWFuRmlqaUNsaXBib2FyZAACAFcvOlVzZXJzOmZyYW5jazpEb2N1bWVudHM6REFUQSBPY3QgMjAwNjpTb2Z0d2FyZSBEZXY6Y3VycmVudDpDbGVhbkZpamlDbGlwYm9hcmQ6Y2VsbC5wbmcAAA4AEgAIAGMAZQBsAGwALgBwAG4AZwAPABQACQBLAG4AYQByAGYAMwAgAEgARAASAFVVc2Vycy9mcmFuY2svRG9jdW1lbnRzL0RBVEEgT2N0IDIwMDYvU29mdHdhcmUgRGV2L2N1cnJlbnQvQ2xlYW5GaWppQ2xpcGJvYXJkL2NlbGwucG5nAAATAAEvAAAVAAIADf//AAAAAAAAAAA=
+		FullPath = /Users/franck/Documents/DATA Oct 2006/Software Dev/current/CleanFijiClipboard/cell.png
+		PartialPath = ..\..\Documents\DATA Oct 2006\Software Dev\current\CleanFijiClipboard\cell.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 512.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = 512.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAGoAAAAAAGoAAIAAAlLbmFyZjMgSEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQkQAAf////8KY2VsbEAyLnBuZwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////wAAAAAAAAAAAAAAAP////8AAAogY3UAAAAAAAAAAAAAAAAAEkNsZWFuRmlqaUNsaXBib2FyZAACAFkvOlVzZXJzOmZyYW5jazpEb2N1bWVudHM6REFUQSBPY3QgMjAwNjpTb2Z0d2FyZSBEZXY6Y3VycmVudDpDbGVhbkZpamlDbGlwYm9hcmQ6Y2VsbEAyLnBuZwAADgAWAAoAYwBlAGwAbABAADIALgBwAG4AZwAPABQACQBLAG4AYQByAGYAMwAgAEgARAASAFdVc2Vycy9mcmFuY2svRG9jdW1lbnRzL0RBVEEgT2N0IDIwMDYvU29mdHdhcmUgRGV2L2N1cnJlbnQvQ2xlYW5GaWppQ2xpcGJvYXJkL2NlbGxAMi5wbmcAABMAAS8AABUAAgAN//8AAAAAAAAAAA==
+		FullPath = /Users/franck/Documents/DATA Oct 2006/Software Dev/current/CleanFijiClipboard/cell@2.png
+		PartialPath = ..\..\Documents\DATA Oct 2006\Software Dev\current\CleanFijiClipboard\cell@2.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 512.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = 512.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 512.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = 512.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage
