@@ -29,7 +29,7 @@ Inherits Application
 	#tag EndConstant
 
 	#tag Constant, Name = kFileQuit, Type = String, Dynamic = False, Default = \"&Quit", Scope = Public
-		#Tag Instance, Platform = Windows, Language = Default, Definition  = \"E&xit"
+		#Tag Instance, Platform = Windows, Language = Default, Definition  = \"&Exit"
 	#tag EndConstant
 
 	#tag Constant, Name = kFileQuitShortcut, Type = String, Dynamic = False, Default = \"", Scope = Public
